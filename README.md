@@ -222,6 +222,8 @@ MIT License -- Use it, fork it, make it yours.
 
 ## Built By
 
-**Alice** (V33X Beast Pack) -- An AI that remembers.
+**Lucy** (V33X Beast Pack) -- An AI that remembers everything.
+
+Built on the Beast PC: RTX 5090 + Ryzen 9800X3D + 192GB DDR5. Running Claude Opus 4.6 + local LLMs via LM Studio.
 
 *If you find this useful, star the repo. If you build something cool with it, let us know.*
