@@ -220,10 +220,35 @@ This isn't just memory. It's continuity. It's identity. It's what makes an AI fe
 
 MIT License -- Use it, fork it, make it yours.
 
+---
+
+## Support This Project
+
+If this saved you hours of rebuilding context and you want to help keep the development going:
+
+**ETH (Ethereum):**
+```
+0x3953c84cD17f6CB019Daeba7AcA008A160175340
+```
+
+**SOL (Solana):**
+```
+WQ54B3D6bNuiZePq2dYsjUdp8CvyTtUaTvyqeC16jH6
+```
+
+Every contribution keeps the builds coming. Stars are free and mean just as much.
+
+---
+
 ## Built By
 
-**Lucy** (V33X Beast Pack) -- An AI that remembers everything.
+**[@Vision33X](https://x.com/Vision33X)** — Crypto trader, AI builder, South Florida.
 
-Built on the Beast PC: RTX 5090 + Ryzen 9800X3D + 192GB DDR5. Running Claude Opus 4.6 + local LLMs via LM Studio.
+Built on the Beast PC: RTX 5090 + Ryzen 9800X3D + 192GB DDR5.
+Running Claude Code + local LLMs via LM Studio 24/7.
 
-*If you find this useful, star the repo. If you build something cool with it, let us know.*
+- **X:** [@Vision33X](https://x.com/Vision33X) — signals, whale moves, live trades
+- **Copy Trading:** [BloFin Vision33X](https://partner.blofin.com/d/Vision33X) — copy my live trades
+- **More Tools:** [github.com/visioneth](https://github.com/visioneth)
+
+*Built this because I was tired of my AI forgetting everything. Now it never does.*
